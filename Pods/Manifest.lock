@@ -1,0 +1,43 @@
+PODS:
+  - Alamofire (4.4.0)
+  - Bolts (1.8.4):
+    - Bolts/AppLinks (= 1.8.4)
+    - Bolts/Tasks (= 1.8.4)
+  - Bolts/AppLinks (1.8.4):
+    - Bolts/Tasks
+  - Bolts/Tasks (1.8.4)
+  - FBSDKCoreKit (4.21.0):
+    - Bolts (~> 1.7)
+  - FBSDKLoginKit (4.21.0):
+    - FBSDKCoreKit
+  - FBSDKShareKit (4.21.0):
+    - FBSDKCoreKit
+  - KCFloatingActionButton (2.2.0)
+  - M13Checkbox (3.1.3)
+  - SCLAlertView (0.7.0)
+  - SwiftyJSON (3.1.4)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.4)
+  - FBSDKCoreKit
+  - FBSDKLoginKit
+  - FBSDKShareKit
+  - KCFloatingActionButton
+  - M13Checkbox
+  - SCLAlertView
+  - SwiftyJSON
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  Bolts: 8a7995239dbe724f9cba2248b766d48b7ebdd322
+  FBSDKCoreKit: 8a372ab194b5c7c26355c1920ef52dbeb44bc222
+  FBSDKLoginKit: a1a5f4b4ac445823a020fbeeaf5f03714a67ff9c
+  FBSDKShareKit: 649a7acfd01a3e056a33994c1bfbb997814cc8a2
+  KCFloatingActionButton: 8c71fa25774e422c8d407f82b4b27809d0cd5233
+  M13Checkbox: c132a7e0eb964731855eff67b883a0b21b7c0977
+  SCLAlertView: 8a14ffc40590c619e183eed2298b854385f30be1
+  SwiftyJSON: c2842d878f95482ffceec5709abc3d05680c0220
+
+PODFILE CHECKSUM: 175fe00cc441079d2206d4e63be9551c40a7f959
+
+COCOAPODS: 1.2.0
